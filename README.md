@@ -6,12 +6,13 @@ Aug 2020 – May 2024
 
 ### Academic Project
 Final Year Project – (Industrial collaboration with PreciX Ptd Ltd) (Ongoing)
-
 Project Title: Design and develop software modules to enhance automatic sensor data processing for Biomechanics Applications.
-  • Analyzed and identified bottlenecks in the data processing workflow, and administered solutions through software
-solution design.
+  • Analyzed and identified bottlenecks in the data processing workflow, and administered solutions through            software solution design.
   • Proposed innovative approaches to reduce processing time, minimize steps, and enhance user experience.
   • Fine-tuned pre-trained YOLOv8 model for bone detection in ultrasound images.
+
+(![Femur Bone Detection Model Result](https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/061b3591-3f4a-44df-bc8e-99d00db20329)
+
 
 Medical Device Design - Solution for aphasia patients
   • Sourced, analyzed and pre-processed open-source EEG data into suitable input shape to be fed as training data      for machine learning.
