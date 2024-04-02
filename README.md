@@ -11,9 +11,9 @@ Project Title: Design and develop software modules to enhance automatic sensor d
   • Proposed innovative approaches to reduce processing time, minimize steps, and enhance user experience.
   • Fine-tuned pre-trained YOLOv8 model for bone detection in ultrasound images.
 
-![Femur Bone Detection Model Result](https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/061b3591-3f4a-44df-bc8e-99d00db20329)
-!(https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/e8e7d0cb-b0ff-41a1-a490-d9f260d8c6ee)
-!(https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/3bcee608-c822-4429-81f4-ed17112f27b3)
+![Picture 1](https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/061b3591-3f4a-44df-bc8e-99d00db20329)
+![Picture 2](https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/8b3afe58-6342-405d-aae3-8751298b12be)
+![Picture3](https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/b428f5d3-cb82-40c6-9498-6781c70ca86c)
 
 
 Medical Device Design - Solution for aphasia patients
