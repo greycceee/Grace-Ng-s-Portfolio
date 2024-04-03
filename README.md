@@ -5,7 +5,7 @@ Nanyang Technological University, Singapore Bachelor of Engineering (Bioengineer
 Aug 2020 – May 2024
 
 ### Academic Project
-Final Year Project – (Industrial collaboration with PreciX Ptd Ltd) (Ongoing)
+## Final Year Project – (Industrial collaboration with PreciX Ptd Ltd) (Ongoing)
 
 Project Title: Design and develop software modules to enhance automatic sensor data processing for Biomechanics Applications.
 
@@ -20,17 +20,17 @@ Project Title: Design and develop software modules to enhance automatic sensor d
 ![Picture3](https://github.com/greycceee/Grace-Ng-s-Portfolio/assets/119509217/b428f5d3-cb82-40c6-9498-6781c70ca86c)
 
 
-Medical Device Design - Solution for aphasia patients
+## Medical Device Design - Solution for aphasia patients
 
-• Sourced, analyzed and pre-processed open-source EEG data into suitable input shape to be fed as training data      for machine learning.
+• Sourced, analyzed and pre-processed open-source EEG data into suitable input shape to be fed as training data for machine learning.
 
 • Contributed to creating and training a Convolutional Neural Network (CNN) from scratch.
 
 • Explored different pre-processing techniques such as ICA and PCA in EEG signal processing.
 
-• Involved in proposing ideas and report writing to help consolidate and present the novel application of our        project which aims to aid aphasia patients to communicate better.
+• Involved in proposing ideas and report writing to help consolidate and present the novel application of our project which aims to aid aphasia patients to communicate better.
 
-Nanyang Technological University, Singapore Data Analysis - Resale flat prices in Singapore
+## Nanyang Technological University, Singapore Data Analysis - Resale flat prices in Singapore
 
 • Cleaned, handled, and analyzed a dataset consisting of more than 120000 rows of data using Jupyter Notebook.
 
